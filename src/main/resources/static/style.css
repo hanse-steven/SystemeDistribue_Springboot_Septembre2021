@@ -1,0 +1,23 @@
+body {
+	background-color: whitesmoke;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.main {
+	padding: 2rem;
+}
+
+.article {
+	border: 2px solid;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+	text-align: center;
+}
